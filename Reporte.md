@@ -7,11 +7,11 @@
 <p style="text-align: center;">TESINA PARA OBTENER EL GRADO DE</p>
 <p style="text-align: center;"><strong> INGENIERIA EN TECNOLOGIAS DE LA INFORMACION</strong></p>
 <p style="text-align: center;">PRESENTA</p>
-<p style="text-align: center;"><strong>HECTOR ULISES AVENDA&Ntilde;O REBOLLO</strong></p>
+<p style="text-align: center;"><strong>HECTOR ULISES AVENDAÑO REBOLLO</strong></p>
 <p style="text-align: center;"><strong>ALEX GUILLERMO CASTILLO NAVA</strong></p>
 <p style="text-align: center;"><strong>ESTEFANY SARAI HERNANDEZ VIDALES</strong></p>
 <p style="text-align: center;"><strong>CARLOS FRANCISCO MONARREZ CRUZ</strong></p>
-<p style="text-align: center;"><strong>JOSUE ELISEO PERALES MELENDEZ</strong></p>
+<p style="text-align: center;"><strong>JOSUE ELISEO PERALES MELENDEZ Y ALCOCER</strong></p>
 <p style="text-align: center;"><strong>MARTIN EDUARDO VAZQUEZ DIAZ</strong></p>
 <p style="text-align: center;">DIRECTOR</p>
 <h4 style="text-align: center;"><strong>DR. SAID P. MARTAGON</strong></h4>
@@ -46,11 +46,19 @@ Python es un lenguaje de programación que te permite trabajar de una manera rá
 
 #### Arduino
 
+dht.h
+
 #### PlataformIO
 
 #### ESP32 DEV1
 
 #### Semillero
+
+dht11 sebnsor de humedad y temperatura ambiental
+
+sensor de humedad del suelo
+
+bomba de agua
 
 #### IOT (Internet de las cosas)
 
@@ -58,6 +66,8 @@ Python es un lenguaje de programación que te permite trabajar de una manera rá
 
 ## Referencias
 
-[1] <https://code.visualstudio.com/>
-[2] <https://www.w3schools.com/cpp/cpp_intro.asp>
-[3] <https://www.python.org/>
+- [1] [https://code.visualstudio.com/](https://code.visualstudio.com/)
+- [2] [https://www.w3schools.com/cpp/cpp_intro.asp](https://www.w3schools.com/cpp/cpp_intro.asp)
+- [3] [https://www.python.org/](https://www.python.org/)
+- [4] [https://www.arduino.cc/](%E2%80%B8https://www.arduino.cc/)
+-
