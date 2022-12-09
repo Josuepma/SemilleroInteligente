@@ -234,8 +234,26 @@ Al principio se tenia pensado realizar un semillero para 8 semillas. Posteriorme
 <img src="Fritzing.jpg">
 </p>
 
+#### Visualización de la maceta
 
-## Conclusion
+Maceta
+Semillero o recipiente pequeño para que pueda germinar el chile habanero.
+
+
+<p algin=center><img src="maceta1.jpg"</p>
+
+Tierra humeda
+Se buscas que el exceso de agua desaparezca. Lo cual tambien sirve para que la semilla tenga una temperatura ideal.
+
+<p algin=center><img src="maceta2.jpg"</p>
+
+Drenación
+La necesidad de suelo de los chiles habaneros es que el suelo debe estar húmedo y bien drenado. 
+
+<p algin=center><img src="maceta3.jpg"</p>
+
+
+## Conclusión
 
 El desarollo de este proyecto a la materia receptora es que se genera nuevos aprendizajes con sensores, aun las cosas mas pequeñas pueden ser integradas con las tecnologias para asi brindar una mejor experiencia.
 
