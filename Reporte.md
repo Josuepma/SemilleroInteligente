@@ -68,6 +68,8 @@ El semillero inteligente, se define como un semillero que de manera inteligente 
 
 #### IOT (Internet de las cosas)
 
+De acuerdo a Amazon, el término IoT, o Internet de las cosas, se refiere a la red colectiva de dispositivos conectados y a la tecnología que facilita la comunicación entre los dispositivos y la nube[7]. Claramente, al utilizar la placa ESP32 diseñada para hacer internet de las cosas, permite tener un monitoreo de la germinación de la semilla.
+
 ### 2. Semillero Inteligente
 
 
@@ -79,4 +81,4 @@ El semillero inteligente, se define como un semillero que de manera inteligente 
 - [4] [https://www.arduino.cc/](%E2%80%B8https://www.arduino.cc/)
 - [5] [https://www.circuitschools.com/what-is-esp32-how-it-works-and-what-you-can-do-with-esp32/](%E2%80%B8https://www.circuitschools.com/what-is-esp32-how-it-works-and-what-you-can-do-with-esp32/)
 - [6] [https://dle.rae.es/semillero](https://dle.rae.es/semillero)
--
+- [7] [https://aws.amazon.com/es/what-is/iot/](%E2%80%B8https://aws.amazon.com/es/what-is/iot/)
