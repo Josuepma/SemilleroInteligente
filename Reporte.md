@@ -46,11 +46,15 @@ Python es un lenguaje de programación que te permite trabajar de una manera rá
 
 #### Arduino
 
-dht.h
+Arduino es una plataforma "open-source" de electrónicos basada en fácil de utilizar hardware y software. La placa utilizada esta basada en Arduino. Por lo tanto, programada en el lenguaje c++ junto con la biblioteca estándar de Arduino y la biblioteca dht que se utiliza en el sensor de humedad y temperatura ambiental.
 
 #### PlataformIO
 
+Es un plugin que funciona como un IDE en visual studio code que permite la programación de diferentes placas principalmente basadas en Arduino, utilizado para compilar los códigos en la placa esp32
+
 #### ESP32 DEV1
+
+Es una placa de desarrollo basada en arduino, solo que más pequeña y especializada para IoT 
 
 #### Semillero
 
@@ -70,4 +74,4 @@ bomba de agua
 - [2] [https://www.w3schools.com/cpp/cpp_intro.asp](https://www.w3schools.com/cpp/cpp_intro.asp)
 - [3] [https://www.python.org/](https://www.python.org/)
 - [4] [https://www.arduino.cc/](%E2%80%B8https://www.arduino.cc/)
--
+- [5] [https://www.circuitschools.com/what-is-esp32-how-it-works-and-what-you-can-do-with-esp32/](%E2%80%B8https://www.circuitschools.com/what-is-esp32-how-it-works-and-what-you-can-do-with-esp32/)
