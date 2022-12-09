@@ -58,12 +58,13 @@ Es una placa de desarrollo basada en arduino, solo que más pequeña y especiali
 
 #### Semillero
 
+De acuerdo a la rae, una de las definiciones de semillero, y la que realmente importa en este proyecto es "Sitio donde se siembran y crían los vegetales que después han de trasplantarse."
 
-dht11 sebnsor de humedad y temperatura ambiental
+El semillero inteligente, se define como un semillero que de manera inteligente funciona por sí mismo, utilizando una placa programable, en este caso, esp32 en conjunto de diferentes sensores y otros circuitos, como:
 
-sensor de humedad del suelo
-
-bomba de agua
+- dht11 sebnsor de humedad y temperatura ambiental
+- sensor de humedad del suelo
+- bomba de agua
 
 #### IOT (Internet de las cosas)
 
@@ -77,5 +78,5 @@ bomba de agua
 - [3] [https://www.python.org/](https://www.python.org/)
 - [4] [https://www.arduino.cc/](%E2%80%B8https://www.arduino.cc/)
 - [5] [https://www.circuitschools.com/what-is-esp32-how-it-works-and-what-you-can-do-with-esp32/](%E2%80%B8https://www.circuitschools.com/what-is-esp32-how-it-works-and-what-you-can-do-with-esp32/)
-- [6] [`https://mapa.gob.es/ministerio/pags/biblioteca/hojas/hd_1968_07.pdf`](%60https://mapa.gob.es/ministerio/pags/biblioteca/hojas/hd_1968_07.pdf%60) 
+- [6] [https://dle.rae.es/semillero](https://dle.rae.es/semillero)
 -
