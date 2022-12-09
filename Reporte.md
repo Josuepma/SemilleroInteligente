@@ -33,7 +33,7 @@
 Cuando se asocian los temas de la tecnologia y la naturaleza se suele pensar que estos no pueden tener una convivencia sin afectarse mutuamente. Si bien esto llega a ser cierto en la mayoría de los casos, existen excepciones a esto. Con el avance tecnologico los impedimentos para que la convivencia entre naturaleza y tecnología
 sea menor se han ido reduciendo.
 
-En la actualidad existen proyectos que tratan de ayudar a la naturaleza. Por ejemplo, el proyecto Underwater Earth el cual es un proyecto hecho por una asociación sin fines de lucro para descubrir el oceando tomado fotografías y videos de un area de 360 grados del ocenado basandose en la frase "no se ama lo que no se sabe". Proyectos como este, son los que tratan de mejorar la convivencia tecnológica con la naturaleza.
+En la actualidad existen proyectos que tratan de ayudar a la naturaleza. Por ejemplo, el proyecto Underwater Earth [1] el cual es un proyecto hecho por una asociación sin fines de lucro para descubrir el oceando tomado fotografías y videos de un area de 360 grados del ocenado basandose en la frase "no se ama lo que no se sabe". Proyectos como este, son los que tratan de mejorar la convivencia tecnológica con la naturaleza.
 
 Es bien conocido que la mayoría de los recursos los cuales los seres humanos usan es para su beneficio. Muchos de los alimentos consumidos, son dados de manera natural por el ambiente mediante semillas. Dichas semillas son otro ejemplo de como la tecnología puede ayudar a la naturaleza. Hoy en día, muchas semillas han sido mejoradas para que el producto de esta sea de mayor tamaño y mejor sabor, inclusive que estas puedan sobrevivir a ambientes más hostiles así como control de plagas.
 
@@ -103,6 +103,8 @@ El objetivo principal es realizar el semillero inteligente, y establece los sigu
 El semillero solo debe ser utilizado para hacer germinar la semilla, en este caso se ha decidido por semilla de habanero. Despues de germinar debe ser removida.
 
 ### 5. Semillero Inteligente
+
+#### Desarrollo
 
 A continuacion, se presenta el procedimiento para la creacion y desarollo del semillero.
 
@@ -346,18 +348,17 @@ El desarollo de este proyecto a la materia receptora es que se genera nuevos apr
 
 ## Referencias
 
-- [1] [https://code.visualstudio.com/](https://code.visualstudio.com/)
-- [2] [https://www.w3schools.com/cpp/cpp_intro.asp](https://www.w3schools.com/cpp/cpp_intro.asp)
-- [3] [https://www.python.org/](https://www.python.org/)
-- [4] [https://www.arduino.cc/](%E2%80%B8https://www.arduino.cc/)
-- [5] [https://www.circuitschools.com/what-is-esp32-how-it-works-and-what-you-can-do-with-esp32/](%E2%80%B8https://www.circuitschools.com/what-is-esp32-how-it-works-and-what-you-can-do-with-esp32/)
-- [6] [https://dle.rae.es/semillero](https://dle.rae.es/semillero)
-- [7] [https://aws.amazon.com/es/what-is/iot/](%E2%80%B8https://aws.amazon.com/es/what-is/iot/)
-- 
-
-- ¿Qué productos se obtienen con la agricultura protegida? | Secretaría de Agricultura y Desarrollo Rural | Gobierno | gob.mx (www.gob.mx)
-- El proceso de la germinación de semillas. Factores que afectan a la germinación (infoagro.com)
-- 5 ejemplos de tecnología de IoT que hace que las casas inteligentes sean ecológicas - Conocimiento - Shenzhen Alean Security Equipment Co., Ltd
-- ▷ 20 Casas Verdes Magistralmente Integradas en la Naturaleza (cinconoticias.com)
-- Tecnología IOT para invernaderos. Mejorando la agricultura. | No. 149 | 2021 | TecnoAgro
-- Temperaturas y tiempos para la germinación de las semillas - PortalFruticola.com
+- [1] [https://www.underwater.earth/](%E2%80%B8https://www.underwater.earth/)
+- [2] [https://code.visualstudio.com/](https://code.visualstudio.com/)
+- [3] [https://www.w3schools.com/cpp/cpp_intro.asp](https://www.w3schools.com/cpp/cpp_intro.asp)
+- [4] [https://www.python.org/](https://www.python.org/)
+- [5] [https://www.arduino.cc/](%E2%80%B8https://www.arduino.cc/)
+- [6] [https://www.circuitschools.com/what-is-esp32-how-it-works-and-what-you-can-do-with-esp32/](%E2%80%B8https://www.circuitschools.com/what-is-esp32-how-it-works-and-what-you-can-do-with-esp32/)
+- [7] [https://dle.rae.es/semillero](https://dle.rae.es/semillero)
+- [8] [https://aws.amazon.com/es/what-is/iot/](%E2%80%B8https://aws.amazon.com/es/what-is/iot/)
+- [9] ¿Qué productos se obtienen con la agricultura protegida? | Secretaría de Agricultura y Desarrollo Rural | Gobierno | gob.mx (www.gob.mx)
+- [10] El proceso de la germinación de semillas. Factores que afectan a la germinación (infoagro.com)
+- [11] 5 ejemplos de tecnología de IoT que hace que las casas inteligentes sean ecológicas - Conocimiento - Shenzhen Alean Security Equipment Co., Ltd
+- [12] 20 Casas Verdes Magistralmente Integradas en la Naturaleza (cinconoticias.com)
+- [13] Tecnología IOT para invernaderos. Mejorando la agricultura. | No. 149 | 2021 | TecnoAgro
+- [14] Temperaturas y tiempos para la germinación de las semillas - PortalFruticola.com
