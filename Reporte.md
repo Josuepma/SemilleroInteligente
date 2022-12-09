@@ -54,9 +54,10 @@ Es un plugin que funciona como un IDE en visual studio code que permite la progr
 
 #### ESP32 DEV1
 
-Es una placa de desarrollo basada en arduino, solo que más pequeña y especializada para IoT 
+Es una placa de desarrollo basada en arduino, solo que más pequeña y especializada para IoT. Es la que se encarga de controlar los sensores para el semillero, como ya se ha descrito funciona con Arduino y será vital para el desarrollo del programa.
 
 #### Semillero
+
 
 dht11 sebnsor de humedad y temperatura ambiental
 
@@ -68,6 +69,7 @@ bomba de agua
 
 ### 2. Semillero Inteligente
 
+
 ## Referencias
 
 - [1] [https://code.visualstudio.com/](https://code.visualstudio.com/)
@@ -75,3 +77,5 @@ bomba de agua
 - [3] [https://www.python.org/](https://www.python.org/)
 - [4] [https://www.arduino.cc/](%E2%80%B8https://www.arduino.cc/)
 - [5] [https://www.circuitschools.com/what-is-esp32-how-it-works-and-what-you-can-do-with-esp32/](%E2%80%B8https://www.circuitschools.com/what-is-esp32-how-it-works-and-what-you-can-do-with-esp32/)
+- [6] [`https://mapa.gob.es/ministerio/pags/biblioteca/hojas/hd_1968_07.pdf`](%60https://mapa.gob.es/ministerio/pags/biblioteca/hojas/hd_1968_07.pdf%60) 
+-
