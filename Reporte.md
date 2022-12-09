@@ -20,8 +20,6 @@
 <p style="text-align: right;">CIUDAD VICTORIA, TAMAULIPAS, DICIEMBRE DE 2022</p>
 <hr /></blockquote>
 
-## Agradecimientos
-
 ## Resúmen
 
 Un semillero inteligente, es un semillero automatizado que funciona con IoT diseñado para germinar semillas de una manera autómata y eficiente. Utilizando una placa esp32 basada en arduino, con un programa desarrollado especificamente para cuidar semillas de habanero hasta que empiece la fase de germinación.
@@ -350,6 +348,8 @@ void loop() {
 ```
 
 En pocas palabras dependiendo del valor del sensor, decidirá si debe colocar agua al semillero. Este programa se debe subir a la placa esp32 que debe estar conectada a la corriente electrica para funcionar junto con los sensores tal y como se observa en el modelo esquemático. A continuación se muestra el prototipo montado.
+
+<p align=center><img src="prototipo1.jpg"</p>
 
 Como se observa, se tuvo que realizar el semillero con acrílico para terminar el proyecto.
 
