@@ -252,6 +252,90 @@ La necesidad de suelo de los chiles habaneros es que el suelo debe estar húmedo
 
 <p algin=center><img src="maceta3.jpg"</p>
 
+#### Desarrollo del programa en Arduino
+
+El proceso para realizar el programa es sencillo, es necesario utilizar el IDE de Arduino o PlataformIO. Se coloca el siguiente código:
+
+```cpp
+#include <DHT.h>
+#define DHT_SENSOR_PIN  21 // ESP32 pin GIOP21 connected to DHT11 sensor
+#define SensorPin 4
+#define DHT_SENSOR_TYPE DHT11
+#define PIN_BOMBA 22
+#define PIN_SENSORTIERRA 23
+
+DHT dht_sensor(DHT_SENSOR_PIN, DHT_SENSOR_TYPE);
+
+void setup() {
+  Serial.begin(115200);
+  dht_sensor.begin(); // initialize the DHT sensor
+  pinMode(PIN_BOMBA, OUTPUT);
+  pinMode(PIN_SENSORTIERRA, OUTPUT);
+  digitalWrite(PIN_BOMBA, LOW);
+  digitalWrite(PIN_SENSORTIERRA, LOW);
+}
+
+void loop() {
+  //inicializamos el sensor principal de humedad tierra
+  //inicializamos la bomba de agua
+  digitalWrite(PIN_BOMBA, LOW);
+  digitalWrite(PIN_SENSORTIERRA, LOW);
+  ////////////////////////
+ 
+  ////////////////////////
+  
+  float humi  = dht_sensor.readHumidity();
+  // read temperature in Celsius
+  float tempC = dht_sensor.readTemperature();
+  
+  // read temperature in Fahrenheit
+  float tempF = dht_sensor.readTemperature(true);
+
+  // check whether the reading is successful or not
+  if ( isnan(tempC) || isnan(tempF) || isnan(humi)) {
+    Serial.println("Failed to read from DHT sensor!");
+  } else {
+    Serial.print("Humedad: ");
+    Serial.print(humi);
+    Serial.print("%");
+
+    Serial.print(" | ");
+
+    Serial.print("Temperature: ");
+    Serial.print(tempC);
+    Serial.print("°C & ");
+    Serial.print(tempF);
+    Serial.print("°F");
+    Serial.println("");
+
+  
+    digitalWrite(PIN_SENSORTIERRA,HIGH);
+    int sensorValue = analogRead(SensorPin);
+    Serial.println(" ");
+    Serial.print("Calibrando humedad de suelo: ");
+    Serial.println(sensorValue);
+    Serial.println(" ");
+    Serial.print("Calibrando humedad de suelo: ");
+    Serial.println(sensorValue);
+    Serial.println(" ");
+    Serial.print("Humedad tierra:");
+    Serial.println(sensorValue);
+    Serial.println(" ");
+    delay(3000);
+    if(sensorValue > 3000){
+      digitalWrite(PIN_BOMBA,HIGH);
+      delay(2800);
+      digitalWrite(PIN_BOMBA,LOW);
+      digitalWrite(PIN_SENSORTIERRA,LOW);
+    }
+    delay(600000);
+    digitalWrite(PIN_SENSORTIERRA,LOW);
+  }
+}
+
+```
+
+
 
 ## Conclusión
 
