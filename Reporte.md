@@ -44,19 +44,19 @@ estas características puede variar dependiendo el tipo de semilla que se utilic
 
 #### Visual Studio Code
 
-Visual estudio Code es un editor de texto el cual permite desarrollar programas y sistemas en diferenetes lenguajes. Ademas de ser "Open Source" lo cual permite que sea uno de los preferedios por los programadores y quie tiene una comunidad muy activa. La razon principal para utilizar ese editor sobre cualquier otro son los "plugins". Para este proyecto, el plugin PlataformIO, permite desarrollar para la placa ESP32 DEV1 [1]
+Visual estudio Code[2] es un editor de texto el cual permite desarrollar programas y sistemas en diferenetes lenguajes. Ademas de ser "Open Source" lo cual permite que sea uno de los preferedios por los programadores y quie tiene una comunidad muy activa. La razon principal para utilizar ese editor sobre cualquier otro son los "plugins". Para este proyecto, el plugin PlataformIO, permite desarrollar para la placa ESP32 DEV1
 
 #### C/C++
 
-C++ es un lenguaje multiplataforma que puede ser utilizado para crear aplicaciones de alto nivel. Es el lenguaje en el que esta construido Arduino el cual es utilizado por la placa ESP32 DEV1.
+C++[3] es un lenguaje multiplataforma que puede ser utilizado para crear aplicaciones de alto nivel. Es el lenguaje en el que esta construido Arduino el cual es utilizado por la placa ESP32 DEV1.
 
 #### Python
 
-Python es un lenguaje de programación que te permite trabajar de una manera rápida e integrar diferentes sistemas más efectivamente. La librería Serial, que es utilizada por arduino para monitorear datos de entrada y salida por las placas programables.
+Python[4] es un lenguaje de programación que te permite trabajar de una manera rápida e integrar diferentes sistemas más efectivamente. La librería Serial, que es utilizada por arduino para monitorear datos de entrada y salida por las placas programables.
 
 #### Arduino
 
-Arduino es una plataforma "open-source" de electrónicos basada en fácil de utilizar hardware y software. La placa utilizada esta basada en Arduino. Por lo tanto, programada en el lenguaje c++ junto con la biblioteca estándar de Arduino y la biblioteca dht que se utiliza en el sensor de humedad y temperatura ambiental.
+Arduino[5] es una plataforma "open-source" de electrónicos basada en fácil de utilizar hardware y software. La placa utilizada esta basada en Arduino. Por lo tanto, programada en el lenguaje c++ junto con la biblioteca estándar de Arduino y la biblioteca dht que se utiliza en el sensor de humedad y temperatura ambiental.
 
 #### PlataformIO
 
@@ -64,11 +64,11 @@ Es un plugin que funciona como un IDE en visual studio code que permite la progr
 
 #### ESP32 DEV1
 
-Es una placa de desarrollo basada en arduino, solo que más pequeña y especializada para IoT. Es la que se encarga de controlar los sensores para el semillero, como ya se ha descrito funciona con Arduino y será vital para el desarrollo del programa.
+Es una placa de desarrollo basada en arduino[6], solo que más pequeña y especializada para IoT. Es la que se encarga de controlar los sensores para el semillero, como ya se ha descrito funciona con Arduino y será vital para el desarrollo del programa.
 
 #### Semillero
 
-De acuerdo a la rae, una de las definiciones de semillero, y la que realmente importa en este proyecto es "Sitio donde se siembran y crían los vegetales que después han de trasplantarse."
+De acuerdo a la rae, una de las definiciones de semillero, y la que realmente importa en este proyecto es "Sitio donde se siembran y crían los vegetales que después han de trasplantarse."[7]
 
 El semillero inteligente, se define como un semillero que de manera inteligente funciona por sí mismo, utilizando una placa programable, en este caso, esp32 en conjunto de diferentes sensores y otros circuitos, como:
 
@@ -78,7 +78,7 @@ El semillero inteligente, se define como un semillero que de manera inteligente 
 
 #### IOT (Internet de las cosas)
 
-De acuerdo a Amazon, el término IoT, o Internet de las cosas, se refiere a la red colectiva de dispositivos conectados y a la tecnología que facilita la comunicación entre los dispositivos y la nube[7]. Claramente, al utilizar la placa ESP32 diseñada para hacer internet de las cosas, permite tener un monitoreo de la germinación de la semilla.
+De acuerdo a Amazon, el término IoT, o Internet de las cosas, se refiere a la red colectiva de dispositivos conectados y a la tecnología que facilita la comunicación entre los dispositivos y la nube[8]. Claramente, al utilizar la placa ESP32 diseñada para hacer internet de las cosas, permite tener un monitoreo de la germinación de la semilla.
 
 ### 3. Justificación
 
@@ -241,7 +241,6 @@ Al principio se tenia pensado realizar un semillero para 8 semillas. Posteriorme
 Maceta
 Semillero o recipiente pequeño para que pueda germinar el chile habanero.
 
-
 <p algin=center><img src="maceta1.jpg"</p>
 
 Tierra humeda
@@ -250,7 +249,7 @@ Se buscas que el exceso de agua desaparezca. Lo cual tambien sirve para que la s
 <p algin=center><img src="maceta2.jpg"</p>
 
 Drenación
-La necesidad de suelo de los chiles habaneros es que el suelo debe estar húmedo y bien drenado. 
+La necesidad de suelo de los chiles habaneros es que el suelo debe estar húmedo y bien drenado.
 
 <p algin=center><img src="maceta3.jpg"</p>
 
@@ -338,7 +337,6 @@ void loop() {
 ```
 
 En pocas palabras dependiendo del valor del sensor, decidirá si debe colocar agua al semillero. Este programa se debe subir a la placa esp32 que debe estar conectada a la corriente electrica para funcionar junto con los sensores tal y como se observa en el modelo esquemático. A continuación se muestra el prototipo montado.
-
 
 Como se observa, se tuvo que realizar el semillero con acrílico para terminar el proyecto.
 
