@@ -106,12 +106,31 @@ De acuerdo a Amazon, el término IoT, o Internet de las cosas, se refiere a la r
 En la modernidad la mayoría de las personas del ambito rural han migrado y siguen migrando a las ciudades grandes, lo que ha dejado descuidado el trabajo del campo en muchos lugares.
 Gracias a la avance y la inovación tecnológica, es posible crear dispositivos automatizados que puedan controlar diferentes cosas. Hoy en día, se cuenta con autos inteligentes, casas inteligentes, por mencionar algunos, que funcionan de manera autónoma con una configuración prestablecida por el usuario.
 Es por esto que se ve en la necesidad de automatizar la actividad y producción rural. Ya se han utilizado drones para el monitoreo de sembradíos.
-En México, la Industria de los invernaderos es bastante amplia y es necesario tener semilleros que permitan la germinación más optima de diferentes tipos de semillas, por esta razón, se ha establecido crear un semillero inteligente.
-
+En México, la Industria de los invernaderos es bastante amplia y es necesario tener semilleros que permitan la germinación más optima de diferentes tipos de semillas, por esta razón, se ha establecido hacer un semillero inteligente.
 
 ### 4. Objetivos
 
+El objetivo principal es realizar el semillero inteligente, y establece los siguientes requisitos:
+
+- Proponer un prototipo 3D
+- Realizar el circuito físico con un esp32
+- Utilizar sensores de humedad
+- Utilizar bomba de agua
+
+El semillero solo debe ser utilizado para hacer germinar la semilla, en este caso se ha decidido por semilla de habanero. Despues de germinar debe ser removida.
+
 ### 5. Semillero Inteligente
+
+Un semillero consiste de un área o lugar en el que se siembran semillas para lograr su germinación. Lo cual una vez que sucede, se procede a trasplantarlas en la zona en la que terminará su crecimiento.
+
+Un semillero debe brindar las condiciones adecuadas a la semilla para poder tener un nacimiento adecuado, es decir, los niveles de temperatura, humedad y suelo se deben adaptar a la semilla que se desee germinar.
+
+Los semilleros más comunes con los que nos podemos encontrar, son aquellos que constan de pequeños espacios o "celdas" en las que debemos introducir la tierra, los nutrientes y obviamente, las semillas, esto con la finalidad de que cada semilla cuente con el espacio necesario para ayudarla a nacer.
+
+Con la llegada de los micro procesadores y sensores mucho más fáciles de implementar, es posible llevar a cabo proyectos que ayuden a mejorar o automatizar procesos que normalmente se realizarian manualmente.
+
+#### Etapas en el proceso de germinación
+
 
 ## Referencias
 
