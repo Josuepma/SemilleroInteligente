@@ -84,7 +84,7 @@ De acuerdo a Amazon, el término IoT, o Internet de las cosas, se refiere a la r
 
 En la modernidad la mayoría de las personas del ambito rural han migrado y siguen migrando a las ciudades grandes, lo que ha dejado descuidado el trabajo del campo en muchos lugares.
 
-Gracias a la avance y la inovación tecnológica, es posible crear dispositivos automatizados que puedan controlar diferentes cosas. 
+Gracias a la avance y la inovación tecnológica, es posible crear dispositivos automatizados que puedan controlar diferentes cosas.
 
 Hoy en día, se cuenta con autos inteligentes, casas inteligentes, por mencionar algunos, que funcionan de manera autónoma con una configuración prestablecida por el usuario.
 Es por esto que se ve en la necesidad de automatizar la actividad y producción rural. Ya se han utilizado drones para el monitoreo de sembradíos.
@@ -192,6 +192,15 @@ Sin embargo, existen proyectos de universidades como los siguientes:
 #### Visualización del proyecto
 
 Al principio se tenia pensado realizar un semillero para 8 semillas. Posteriormente se decidió por reducirlo a 3, aquí se puede observar en el primer prototipo dibujado las 8 celdas
+
+<p align="center">
+<img src="Semillero1.jpg">
+<img src="Semillero2.jpg">
+<img src="Semillero3.jpg">
+<img src="Semillero4.jpg">
+<img src="Semillero5.jpg">
+</p>
+
 
 
 ## Referencias
