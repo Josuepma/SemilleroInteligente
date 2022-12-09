@@ -24,7 +24,11 @@
 
 ## Resúmen
 
+Un semillero inteligente, es un semillero automatizado que funciona con IoT diseñado para germinar semillas de una manera autómata y eficiente. Utilizando una placa esp32 basada en arduino, con un programa desarrollado especificamente para cuidar semillas de habanero hasta que empiece la fase de germinación.
+
 ## Summary
+
+A smart seedbed is an IoT-powered automated seedbed designed to germinate seeds in an automated and efficient manner. Using an arduino based esp32 board, with a program specifically developed to care for habanero seeds until the germination phase begins.
 
 ## Semillero inteligente
 
