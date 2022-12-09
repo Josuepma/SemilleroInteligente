@@ -114,6 +114,85 @@ Con la llegada de los micro procesadores y sensores mucho más fáciles de imple
 
 #### Etapas en el proceso de germinación
 
+##### **1. Fase de hidatración o de embibición**
+
+La primera etapa, es la absorción del agua, por parte de la semilla. Sin esta etapa, el proceso de la germinación no puede darse. El proceso de hidratación de los tejidos de la semilla es un proceso físico de duración variable. La duración del mismo va a depender de la cantidad de agua disponible en el medio que rodea a la semilla y de la composición química de la semilla, lo cual va a influir en la permeabilidad de las cubiertas al agua y al oxígeno.
+
+La entrada de agua en el interior de la semilla se debe a una diferencia de potencial hídrico entre la semilla y el medio ambiente que la rodea. Durante la fase de imbibición, el agua penetra en el interior de la semilla provocando el hinchamiento de la misma. Una vez que la semilla se ha hidratado, comienza a activarse una serie de procesos metabólicos que son esenciales para que se produzcan las siguientes etapas de la germinación.
+
+Algunos de los factores que pueden influir en esta etapa de la germinación pueden ser:
+
+- El déficit o exceso hídrico del medio que rodea a la semilla
+- La velocidad de hidratación
+- La temperatura a la que tiene lugar la imbibición.
+
+##### 2. **Fase de germinación**
+
+Una vez que la semilla ha completado la fase de hidratación, entra en la segunda fase del proceso de germinación. En esta, se van a producir una serie de reacciones metabólicas en el interior de la semilla, que van a dar como resultado la transformación de las macromoléculas de reserva, en moléculas solubles mucho más sencillas y asequibles para el embrión.
+
+##### 3. Fase del crecimiento
+
+Es la última fase del proceso de germinación de las semillas y se caracteriza por el aumento de la absorción de agua, así como por el aumento de la actividad respiratoria. La extensión de la radícula a través de las envolturas seminales es el hecho que supone la finalización de la fase de germinación propiamente dicha y marca el inicio de esta tercera y última fase del proceso de germinación.
+
+Mientras que en las dos primeras fases de la germinación los procesos son reversibles, las semillas que alcanzan la fase de crecimiento no pueden volver a las etapas anteriores del proceso, es decir, entran en una situación fisiológica irreversible, y en el caso de que no se den las condiciones adecuadas para que esta fase pueda seguir adelante, la semilla morirá.
+
+Una vez que la radícula rompe las cubiertas seminales, se inicia el desarrollo de la plántula, dando lugar a un proceso complejo, que implica un elevado gasto energético obtenido mediante la movilización de las reservas nutritivas de las semillas.
+
+#### Definición del semillero
+
+En este proyecto se desarrolla en un semillero inteligente a pequeña escala, constando de 3 semillas de habanero, con el fin de ser monitoreado y controlado mediante el uso de sistemas embebidos e Internet de las coas (IoT), los cuales se encargarán de recolectar información y procesar datos recolectados para poder ser visualizados. Asímismo, poder controlar varios factores que afectan al cultivo: la luz, agua, temperatura entre otros. Pretendiendo brindar al agricultor información en tiempo real sobre el estado del cultivo, ayudándole a tomar decisiones que permitan optimizar al máximo sus recursos para obtener mejores resultados, eliminando tareas que pueden ser repetitivas, que puede realizar un dispositivo.
+
+#### Beneficios
+
+* Monitoreo automático del estado actual de la planta.
+* Registro de los resultados obtenidos.
+* Automatización de procesos.
+
+#### Alcances
+
+Se puede adaptar a cualquier semilla siempre y cuando el tamaño de la celda sea el suficiente para su desarrollo.
+
+Es una herramienta que puede ayudar a personas que no disponen del tiempo suficiente para dedicar a sus plantas.
+
+#### Limitaciones
+
+El semillero solamente servirá para germinar la semilla, después de terminar el proceso de crecimiento, es necesario conseguir una maceta o un terreno al que trasplantarla.
+
+Puede adecuar condiciones como la humedad y la temperatura, pero el suelo y su calidad siguen dependiendo del usuario.
+
+Si bien, cuenta con varias celdas para poder tener varias semillas a la vez, todas estas deberán ser del mismo tipo de planta.
+
+#### Impacto en la sociedad
+
+Gracias a la conectividad IoT, los sensores y las plataformas de gestión de Big Data se ha amplificado y conjuntamente con los invernaderos, que son una pieza fundamental en la agricultura, ayudando a solucionar el aumento a la producción de alimentos y automatización del tiempo.
+
+El presente proyecto no tiene la estimación del tamaño de la empresa o la capacidad de inversión, por lo cual, los que hacen estas inversiones son las fincas o agricultores jóvenes con alguna formación agrícola, con explotaciones grandes y modernas, ya que para otros agricultores puede ser inviable.
+
+Por otro lado, la tecnología verde es un campo que está en crecimiento para la innovación sostenible, donde pueden ejecutarse proyectos de jardines verticales o donde se puede replicarse jardines internos con plantas, puesto que ambos ejecutan una visión de la arquitectura sustentable, teniendo como resultado una vinculación con la naturaleza y el bienestar tanto físico como mental.
+
+#### A quién se dirige el proyecto
+
+El proyecto va dirigido a los invernaderos y a las casas que implementan la estructura de áreas verdes. Ya que los invernaderos que se destina a estabilizar el ambiente de crecimiento, amortiguando la temperatura ambiente y protegiendo a las plantas, tanto decorativas como hortícolas.
+
+Asímismo, las viviendas verdes son una opción, ya que al ser un espacio habitual se genera bienestar integral, beneficiando al medioambiente, así como a la sociedad y la economía. Donde pueda cubrir las necesidades, fomentando la salud física, mental y espiritual de sus habitantes.
+
+#### Proyectos similares
+
+Durante los últimos cuarenta años se vienen utilizando en el mercado todo tipo de técnicas y productos para el tratamiento de los cultivos mediante diferentes fórmulas, de las cuales unas tienen un funcionamiento muy similar al de nuestro producto y otras tienen características y tecnologías muy diferentes a las utilizadas por los invernaderos.
+
+Los que podrían ser considerados para lo invernaderos como una competencia directa, son todas aquellas empresas con productos que utilizan Una tecnología de punta, para su funcionamiento.
+
+Debido a lo anteriormente expuesto, estas empresas no suponen un grave problema para el proyecto, ya que la credibilidad en el mercado es nula, sus ventas son ocasionales y muchos de ellos han desaparecido o se desconoce la continuidad en el mercado de nuestro país
+
+Sin embargo, existen proyectos de universidades como los siguientes:
+
+* Semilleros de Investigación en Sistemas Embebidos (Sise). El semillero ha desarrollado proyectos sobre IOT, la automatización, la realidad virtual, la agricultura digital y la domótica, con los cuales ha representado a la universidad EAFIT
+* Smart Green: riego urbano inteligente a través del IoT y la inteligencia artificial proyecto descrito por Guillermo Mas Martines, Daniel Cardelús Vidal, consiste en el proceso de desarrollo y testeo de un nuevo sistema basado en las comuniciones IoT y la inteligencia artificial.
+
+#### Visualización del proyecto
+
+Al principio se tenia pensado realizar un semillero para 8 semillas. Posteriormente se decidió por reducirlo a 3, aquí se puede observar en el primer prototipo dibujado las 8 celdas
+
 
 ## Referencias
 
