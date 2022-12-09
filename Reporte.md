@@ -104,6 +104,16 @@ El semillero solo debe ser utilizado para hacer germinar la semilla, en este cas
 
 ### 5. Semillero Inteligente
 
+A continuacion, se presenta el procedimiento para la creacion y desarollo del semillero.
+
+**Planeación.-** Para comenzar con el desarrollo del proyecto, es importante saber primero qué es lo que necesitamos y qué deseamos obtener. Es así como damos inicio a la lluvia de ideas respecto a que diseño deberíamos, materiales y sensores vamos a emplear.
+
+**Diseño.-** Una vez definidos los materiales que necesitaremos, pasamos a desarrollar los primeros prototipos. Comenzando por diseños simples hechos a mano en una hoja de papel, elegir los que consideramos mejores opciones y pasar a los modelos en 3D.
+
+**Prototipo físico.-** Ya con la base de cómo sería nuestro prototipo en un modelo, comenzamos con la elaboración del mismo ya de manera física. Fue así como tuvimos que elegir entre distintas opciones de material, siendo las dos principales hacer uso de la impresión 3D con filamento o usar acrílico. Siendo está segunda la opción la que consideramos adecuada por cuestiones de tiempo, precio y es el material del que tenemos más conocimiento.
+
+**Circuito.-**
+
 Un semillero consiste de un área o lugar en el que se siembran semillas para lograr su germinación. Lo cual una vez que sucede, se procede a trasplantarlas en la zona en la que terminará su crecimiento.
 
 Un semillero debe brindar las condiciones adecuadas a la semilla para poder tener un nacimiento adecuado, es decir, los niveles de temperatura, humedad y suelo se deben adaptar a la semilla que se desee germinar.
@@ -201,7 +211,33 @@ Al principio se tenia pensado realizar un semillero para 8 semillas. Posteriorme
 <img src="Semillero5.jpg">
 </p>
 
+#### Material
 
+* Protoboard
+* Foto Resistor ky-018
+* Tarjeta ESP-WROOM32 (esp32 dev1)
+* Sensor de humedad en tierra (soil moisture sensor)
+* Sensor de temperatura y humedad modelo RHT-03
+* Pantalla Oled 128x32 i2c (opcional)
+* Relé
+* Bombas sumergibles
+* Lampara (opcional)
+* Mangueras
+* Maceta
+* Contenedor de riego
+* Contenedor de acrílico
+
+#### Modelo esquemático
+
+<p align="center">
+<img src="Modelo.jpg">
+<img src="Fritzing.jpg">
+</p>
+
+
+## Conclusion
+
+El desarollo de este proyecto a la materia receptora es que se genera nuevos aprendizajes con sensores, aun las cosas mas pequeñas pueden ser integradas con las tecnologias para asi brindar una mejor experiencia.
 
 ## Referencias
 
@@ -212,3 +248,11 @@ Al principio se tenia pensado realizar un semillero para 8 semillas. Posteriorme
 - [5] [https://www.circuitschools.com/what-is-esp32-how-it-works-and-what-you-can-do-with-esp32/](%E2%80%B8https://www.circuitschools.com/what-is-esp32-how-it-works-and-what-you-can-do-with-esp32/)
 - [6] [https://dle.rae.es/semillero](https://dle.rae.es/semillero)
 - [7] [https://aws.amazon.com/es/what-is/iot/](%E2%80%B8https://aws.amazon.com/es/what-is/iot/)
+- 
+
+- ¿Qué productos se obtienen con la agricultura protegida? | Secretaría de Agricultura y Desarrollo Rural | Gobierno | gob.mx (www.gob.mx)
+- El proceso de la germinación de semillas. Factores que afectan a la germinación (infoagro.com)
+- 5 ejemplos de tecnología de IoT que hace que las casas inteligentes sean ecológicas - Conocimiento - Shenzhen Alean Security Equipment Co., Ltd
+- ▷ 20 Casas Verdes Magistralmente Integradas en la Naturaleza (cinconoticias.com)
+- Tecnología IOT para invernaderos. Mejorando la agricultura. | No. 149 | 2021 | TecnoAgro
+- Temperaturas y tiempos para la germinación de las semillas - PortalFruticola.com
