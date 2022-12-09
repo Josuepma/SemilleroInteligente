@@ -30,36 +30,15 @@
 
 ### 1. Introducción
 
-Cuando se asocian los temas de la tecnologia y la naturaleza se suele
-pensar que estos no pueden tener una convivencia sin afectarse
-mutuamente, si bien esto llega aser cierto en la mayoria de los casos
-pero existen excepciones a esto, con el avance tecnologicos los
-impedimentos para que la convivencia entre naturaleza y tecnologia
-sea mejor se han echos mas notorios, en la actualidad existen
-proyectos los cuales tratan de ayudar a la naturaleza por ejemplo el
-proyecto Underwater Earth el cual es un proyecto echo por una
-asociación sin fines de lucro para descubrir el oceando tomado
-gotografias y videos de un area de 360 grados del ocenado basandose
-en la frase "no se ama lo que no se sabe", proyectos como
-este son los qie tratan de mejorar la convivencia tecnologica con la
-naturaleza, es buen conocido que la mayoria de los recursos los
-cuales los seres humanos usan para su beneficio muchos de los
-alimentos consimidos por ellos son dados de manera natural por el
-hambiente mediate semillas dichas semillas son otro ejemplo de como
-la tecnologia puede ayudar a la naturaleza debido a que a comparacion
-a las semillas anteriores estas han sido mejoradas para que el
-producto de esta sea de mayor tamaño y mejor sabor asi como que
-estas puedan sobrevivir a ambientes mas hostiles asi como plagas.
-Tomado como punto de partida el tema de las semillas es donde
-comienza el proyecto a realizar, se sabe que existen una infinidad de
-semillas en la tierra cada una de estas requiere de diferentes
-características para su germinación, ya sea la humedad de la tierra
-la luz de sol que recibe o el tipo de riego, todas y cada una de
-estas caracteristicas puede variar dependiendo el tipo de semilla que
-se utilice para la siembra siendo esto asi se es posible medir estas
-caracteristicas y poder controlar la germinación de las semillas a
-lo que se requiera y esto puede ser logrado tambien implementando la
-tecnologia a la naturaleza.
+Cuando se asocian los temas de la tecnologia y la naturaleza se suele pensar que estos no pueden tener una convivencia sin afectarse mutuamente. Si bien esto llega a ser cierto en la mayoría de los casos, existen excepciones a esto. Con el avance tecnologico los impedimentos para que la convivencia entre naturaleza y tecnología
+sea menor se han ido reduciendo.
+
+En la actualidad existen proyectos que tratan de ayudar a la naturaleza. Por ejemplo, el proyecto Underwater Earth el cual es un proyecto hecho por una asociación sin fines de lucro para descubrir el oceando tomado fotografías y videos de un area de 360 grados del ocenado basandose en la frase "no se ama lo que no se sabe". Proyectos como este, son los que tratan de mejorar la convivencia tecnológica con la naturaleza.
+
+Es bien conocido que la mayoría de los recursos los cuales los seres humanos usan es para su beneficio. Muchos de los alimentos consumidos, son dados de manera natural por el ambiente mediante semillas. Dichas semillas son otro ejemplo de como la tecnología puede ayudar a la naturaleza. Hoy en día, muchas semillas han sido mejoradas para que el producto de esta sea de mayor tamaño y mejor sabor, inclusive que estas puedan sobrevivir a ambientes más hostiles así como control de plagas.
+
+Tomado como punto de partida el tema de las semillas, es donde comienza el proyecto, se sabe que existen una infinidad de semillas en la tierr. Cada una de estas requiere de diferentes características para su germinación, ya sea la humedad de la tierra, la luz de sol que recibe, o el tipo de riego. Todas y cada una de
+estas características puede variar dependiendo el tipo de semilla que se utilice para la siembr. Siendo esto así, se es posible medir estas características y poder controlar la germinación de las semillas a lo que se requiera y esto puede ser logrado también implementando la tecnología a la naturaleza.
 
 ### 2. Marco Teórico
 
@@ -104,8 +83,12 @@ De acuerdo a Amazon, el término IoT, o Internet de las cosas, se refiere a la r
 ### 3. Justificación
 
 En la modernidad la mayoría de las personas del ambito rural han migrado y siguen migrando a las ciudades grandes, lo que ha dejado descuidado el trabajo del campo en muchos lugares.
-Gracias a la avance y la inovación tecnológica, es posible crear dispositivos automatizados que puedan controlar diferentes cosas. Hoy en día, se cuenta con autos inteligentes, casas inteligentes, por mencionar algunos, que funcionan de manera autónoma con una configuración prestablecida por el usuario.
+
+Gracias a la avance y la inovación tecnológica, es posible crear dispositivos automatizados que puedan controlar diferentes cosas. 
+
+Hoy en día, se cuenta con autos inteligentes, casas inteligentes, por mencionar algunos, que funcionan de manera autónoma con una configuración prestablecida por el usuario.
 Es por esto que se ve en la necesidad de automatizar la actividad y producción rural. Ya se han utilizado drones para el monitoreo de sembradíos.
+
 En México, la Industria de los invernaderos es bastante amplia y es necesario tener semilleros que permitan la germinación más optima de diferentes tipos de semillas, por esta razón, se ha establecido hacer un semillero inteligente.
 
 ### 4. Objetivos
