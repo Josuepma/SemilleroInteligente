@@ -106,7 +106,16 @@ El semillero solo debe ser utilizado para hacer germinar la semilla, en este cas
 
 #### Desarrollo
 
-A continuacion, se presenta el procedimiento para la creacion y desarollo del semillero.
+A continuacion, se presenta el procedimiento para la creacion y desarollo del semillero, desde que medidas se usaron hasta las propiedades del material usado.
+
+Primero se consiguieron dos planchas de acrilico, de tamaño lamina,  con dimensiones de 27.9 centimetros de alto, 35.6 centimetros de largo y con 1.3 mm de espesor, esto con el fin de asegurarse de que el material pueda resistir la fuerza que se ejerceria con base a lo que se le introduciría como lo es la tierra, agua y los circuitos electronicos que debaba llevar sumergidos como lo es la bomba de agua, su cable de alimentacion y la manguera de desagüe.
+Conforme a lo anterior, se cortó de manera precisa dos laminas con dimensiones de 15 cm por 8 cm de alto y largo respectivamente, esto para poder tener listas las paredes principales del semillero, siguiendo de dos laminas de 15 cm de alto por 5 cm de largo para las bases que llevaria y su doble fondo que tiene para almacenar el agua dentro de ello.
+Se realizaron cortes de 5 x 5 cm de lamina para colocar los separadores de los compartimientos entre semillas.
+Posteriormente se realizaron perforaciones sobre el doble fondo para poder realizar el drenaje de agua, esto para poder realizar un tipo de "recirculacion" de agua y que no se desperdicie el agua ya sea tirandola o gastando de mas; se ingreso en el doble fondo la bomba de agua que serviria como alimentacion de agua para las semillas junto a su manguera la cual mide 18 cm de largo por 3 mm de ancho que tiene, ademas, tres perforaciones en su largo que permiten el riego a los espacios donde van las semillas y con ello mantener con suficiente humedad las mismas.
+
+Como mencion curiosa ya que no se mencionó, se pego todo el material con pegamento de rapido pegado "cola-loca" para fijar de manera sencilla las partes para que posteriormente se agregara silicon en todas las aristas y evitar alguna fuga ya sea de tierra o agua principalmente.
+
+Teniendo todo ya armado, se prosiguió a ingresar la tierra en los espacios donde van las semillas, se ingresaron las semillas a la profundidad marcada por el vendedor, y, posteriormente se inserto el medidor de humedad de suelo dentro de un deposito donde vaya alguna semilla, que como su nombre lo indica, mide la humedad del suelo y si no esta lo suficiente poder accionar con señales el switch que controla la bomba de agua y rociar suficiente para mantener el nivel de humedad que requieren las semillas para su germinacion.
 
 **Planeación.-** Para comenzar con el desarrollo del proyecto, es importante saber primero qué es lo que necesitamos y qué deseamos obtener. Es así como damos inicio a la lluvia de ideas respecto a que diseño deberíamos, materiales y sensores vamos a emplear.
 
@@ -346,17 +355,17 @@ El desarollo de este proyecto a la materia receptora es que se genera nuevos apr
 
 ## Referencias
 
-- [1] [https://www.underwater.earth/](%E2%80%B8https://www.underwater.earth/)
-- [2] [https://code.visualstudio.com/](https://code.visualstudio.com/)
-- [3] [https://www.w3schools.com/cpp/cpp_intro.asp](https://www.w3schools.com/cpp/cpp_intro.asp)
-- [4] [https://www.python.org/](https://www.python.org/)
-- [5] [https://www.arduino.cc/](%E2%80%B8https://www.arduino.cc/)
-- [6] [https://www.circuitschools.com/what-is-esp32-how-it-works-and-what-you-can-do-with-esp32/](%E2%80%B8https://www.circuitschools.com/what-is-esp32-how-it-works-and-what-you-can-do-with-esp32/)
-- [7] [https://dle.rae.es/semillero](https://dle.rae.es/semillero)
+- [1] Underwater Earth, (2010) [https://www.underwater.earth/](%E2%80%B8https://www.underwater.earth/)
+- [2] Visual studio Code, (s/f) [https://code.visualstudio.com/](https://code.visualstudio.com/)
+- [3] W3Schools, (s/f) [https://www.w3schools.com/cpp/cpp_intro.asp](https://www.w3schools.com/cpp/cpp_intro.asp)
+- [4] Python, (s/f) [https://www.python.org/](https://www.python.org/)
+- [5] Arduino, (s/f) [https://www.arduino.cc/](%E2%80%B8https://www.arduino.cc/)
+- [6] CircuitSchools Staff, (enero, 2022) [https://www.circuitschools.com/what-is-esp32-how-it-works-and-what-you-can-do-with-esp32/](%E2%80%B8https://www.circuitschools.com/what-is-esp32-how-it-works-and-what-you-can-do-with-esp32/)
+- [7] Real Academia Española, (2022) [https://dle.rae.es/semillero](https://dle.rae.es/semillero)
 - [8] [https://aws.amazon.com/es/what-is/iot/](%E2%80%B8https://aws.amazon.com/es/what-is/iot/)
-- [9] ¿Qué productos se obtienen con la agricultura protegida? | Secretaría de Agricultura y Desarrollo Rural | Gobierno | gob.mx (www.gob.mx)
+- [9] Secretaría de Agricultura y Desarrollo Rural, Gobierno, ¿Qué productos se obtienen con la agricultura protegida?, gob.mx [www.gob.mx](www.gob.mx)
 - [10] El proceso de la germinación de semillas. Factores que afectan a la germinación (infoagro.com)
-- [11] 5 ejemplos de tecnología de IoT que hace que las casas inteligentes sean ecológicas - Conocimiento - Shenzhen Alean Security Equipment Co., Ltd
-- [12] 20 Casas Verdes Magistralmente Integradas en la Naturaleza (cinconoticias.com)
-- [13] Tecnología IOT para invernaderos. Mejorando la agricultura. | No. 149 | 2021 | TecnoAgro
-- [14] Temperaturas y tiempos para la germinación de las semillas - PortalFruticola.com
+- [11]Shenzhen Alean Security Equipment Co., Ltd, (s/f) 5 ejemplos de tecnología de IoT que hace que las casas inteligentes sean ecológicas
+- [12] cinconoticias.com (s/f) 20 Casas Verdes Magistralmente Integradas en la Naturaleza
+- [13] TecnoAgro, (2021) Tecnología IOT para invernaderos. Mejorando la agricultura. No. 149
+- [14] PortalFruticola.com, (s/f) Temperaturas y tiempos para la germinación de las semillas
