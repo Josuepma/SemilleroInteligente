@@ -335,7 +335,10 @@ void loop() {
 
 ```
 
+En pocas palabras dependiendo del valor del sensor, decidirá si debe colocar agua al semillero. Este programa se debe subir a la placa esp32 que debe estar conectada a la corriente electrica para funcionar junto con los sensores tal y como se observa en el modelo esquemático. A continuación se muestra el prototipo montado.
 
+
+Como se observa, se tuvo que realizar el semillero con acrílico para terminar el proyecto.
 
 ## Conclusión
 
