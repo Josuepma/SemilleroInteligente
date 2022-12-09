@@ -30,6 +30,37 @@
 
 ### 1. Introducción
 
+Cuando se asocian los temas de la tecnologia y la naturaleza se suele
+pensar que estos no pueden tener una convivencia sin afectarse
+mutuamente, si bien esto llega aser cierto en la mayoria de los casos
+pero existen excepciones a esto, con el avance tecnologicos los
+impedimentos para que la convivencia entre naturaleza y tecnologia
+sea mejor se han echos mas notorios, en la actualidad existen
+proyectos los cuales tratan de ayudar a la naturaleza por ejemplo el
+proyecto Underwater Earth el cual es un proyecto echo por una
+asociación sin fines de lucro para descubrir el oceando tomado
+gotografias y videos de un area de 360 grados del ocenado basandose
+en la frase "no se ama lo que no se sabe", proyectos como
+este son los qie tratan de mejorar la convivencia tecnologica con la
+naturaleza, es buen conocido que la mayoria de los recursos los
+cuales los seres humanos usan para su beneficio muchos de los
+alimentos consimidos por ellos son dados de manera natural por el
+hambiente mediate semillas dichas semillas son otro ejemplo de como
+la tecnologia puede ayudar a la naturaleza debido a que a comparacion
+a las semillas anteriores estas han sido mejoradas para que el
+producto de esta sea de mayor tamaño y mejor sabor asi como que
+estas puedan sobrevivir a ambientes mas hostiles asi como plagas.
+Tomado como punto de partida el tema de las semillas es donde
+comienza el proyecto a realizar, se sabe que existen una infinidad de
+semillas en la tierra cada una de estas requiere de diferentes
+características para su germinación, ya sea la humedad de la tierra
+la luz de sol que recibe o el tipo de riego, todas y cada una de
+estas caracteristicas puede variar dependiendo el tipo de semilla que
+se utilice para la siembra siendo esto asi se es posible medir estas
+caracteristicas y poder controlar la germinación de las semillas a
+lo que se requiera y esto puede ser logrado tambien implementando la
+tecnologia a la naturaleza.
+
 ### 2. Marco Teórico
 
 #### Visual Studio Code
