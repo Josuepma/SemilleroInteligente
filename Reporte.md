@@ -3,7 +3,7 @@
 <blockquote>
 <h2 style="text-align: center;">UNIVERSIDAD POLITECNICA DE VICTORIA</h2>
 <hr /><hr />
-<p style="text-align: center;"><strong>SEMILLERO AUTOMATIZADO</strong></p>
+<p style="text-align: center;"><strong>SEMILLERO INTELIGENTE</strong></p>
 <p style="text-align: center;">TESINA PARA OBTENER EL GRADO DE</p>
 <p style="text-align: center;"><strong> INGENIERIA EN TECNOLOGIAS DE LA INFORMACION</strong></p>
 <p style="text-align: center;">PRESENTA</p>
